@@ -2,6 +2,8 @@
 
 Create 2D map with treasure.
 
+Every dead end has a percentage chance for treasure (?)
+
 **The map ALWAYS has one entrance, one exit, and an existing path from one to the other!**
 
 # Late Execution Features
